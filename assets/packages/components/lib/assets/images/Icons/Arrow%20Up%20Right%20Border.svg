@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Arrow Up Right Border</title>
+    <g id="Arrow-Up-Right-Border" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M24,100 L0,100 L0,24 L60,24 L60,1.2246468e-15 L100,36 L60,72 L60,48 L24,48 L24,100 Z" id="Shadow"></path>
+        <path d="M24,100 L0,100 L0,24 L60,24 L60,1.2246468e-15 L100,36 L60,72 L60,48 L24,48 L24,100 Z" id="Colour" fill="#000000"></path>
+    </g>
+</svg>

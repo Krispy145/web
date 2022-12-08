@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Minus Bold</title>
+    <g id="Minus-Bold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14,36 L86,36 C93.7319865,36 100,42.2680135 100,50 C100,57.7319865 93.7319865,64 86,64 L14,64 C6.2680135,64 2.72325209e-15,57.7319865 0,50 C8.29461588e-16,42.2680135 6.2680135,36 14,36 Z" id="Shadow"></path>
+        <path d="M14,36 L86,36 C93.7319865,36 100,42.2680135 100,50 C100,57.7319865 93.7319865,64 86,64 L14,64 C6.2680135,64 2.72325209e-15,57.7319865 0,50 C8.29461588e-16,42.2680135 6.2680135,36 14,36 Z" id="Colour" fill="#000000"></path>
+    </g>
+</svg>

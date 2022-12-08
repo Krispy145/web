@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Tools</title>
+    <g id="Tools" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M45.5,9 L45.5,54.5 L91,54.5 C91,79.6289561 70.6289561,100 45.5,100 C20.3710439,100 0,79.6289561 0,54.5 C0,29.3710439 20.3710439,9 45.5,9 L45.5,9 Z M54,0 C79.4050985,0 100,20.5949015 100,46 L100,46 L54,46 Z" id="Shadow"></path>
+        <path d="M45.5,9 L45.5,54.5 L91,54.5 C91,79.6289561 70.6289561,100 45.5,100 C20.3710439,100 0,79.6289561 0,54.5 C0,29.3710439 20.3710439,9 45.5,9 L45.5,9 Z M54,0 C79.4050985,0 100,20.5949015 100,46 L100,46 L54,46 Z" id="Colour" fill="#000000"></path>
+    </g>
+</svg>
